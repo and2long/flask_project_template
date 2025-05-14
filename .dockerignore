@@ -1,0 +1,26 @@
+# 忽略数据库文件
+*.db
+
+# 忽略迁移文件
+migrations/
+
+# 忽略虚拟环境
+venv/
+
+# 忽略 Git 相关文件
+.git/
+
+# 忽略其他不必要文件
+*.pyc
+__pycache__/
+./idea
+
+# 忽略 Docker 相关文件
+docker-compose.yml
+Dockerfile
+
+# 忽略环境变量文件
+.env
+.envrc
+
+/data/
