@@ -31,5 +31,5 @@ flask db migrate
 flask db upgrade
 ```
 
-### Run services locally
+### Run locally
 `flask run --debug`
